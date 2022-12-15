@@ -96,7 +96,7 @@ body{
     margin-bottom: 4rem;
 }
 .home-btn{
-    padding: 15px 45px;
+    padding: 10px 45px;
     background: var(--red);
     color: var(--white);
     border-radius: 10px;
